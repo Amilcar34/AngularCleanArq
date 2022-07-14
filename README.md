@@ -24,17 +24,16 @@ Por terminal/cmd
 # Arquitectura
 Este proyecto esta hecho bajo la linea de diseño **Clean Architecture** (*Arquitectura Limpia*)
 
-## Nociones Básicas
+## Nociones Básicas de lo implementado
 
-En *src/app/domain** se centra en *¿Qué queremos?*   
-> En *src/app/domain/model* se ubican las reglas generales de alto nivel.  
-> En *src/app/domain/usecase* reglas comerciales de la aplicación, encapsula e implementa todos los *casos de uso* del sistema.  
-
-En *src/app/infraestructure* se centra en *¿Cómo lo hacemos?*  
-
-En *src/app/ui* se centra en *Qué exponer y cómo exponer*   
+En **src/app/domain** *se centra* en **¿Qué queremos?**  
+En **src/app/domain/model** se ubican las reglas generales de alto nivel.  
+En **src/app/domain/usecase** reglas comerciales de la aplicación, encapsula e implementa todos los *casos de uso* del sistema.  
+En **src/app/infraestructure** *se centra* en **¿Cómo lo hacemos?**  
+En **src/app/ui** se centra en *Qué exponer y cómo exponer*   
 
 ## Vaga Idea
+
 
 # Notas
 
