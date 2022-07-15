@@ -37,4 +37,6 @@ En **src/app/ui** se centra en *Qué exponer y cómo exponer*
 
 # Notas
 
-La UI del proyecto se basa en Atomic Design (Brad Frost)
+La UI del proyecto se basa en Atomic Design (Brad Frost)  
+La migracion a **Jest** se realizo mediante el siguiente [tutorial](https://gist.github.com/Klerith/ca4573d13844f53af3ff68846a238fc3
+)
