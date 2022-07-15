@@ -1,25 +1,16 @@
 # AngularCleanArq
 
-# Verificacion de [Pre requisitos](#Pre-requisitos)
+# Pre requisitos y verificacion 
+
+*   Estar conectado a la red de ASE / Medife
 
 Si podes entrar a esta [URL](https://openshift.ase.local/) estas conectado ala VPN :smile:
 
-Por terminal/cmd
-
-| Comando               | Salida                |
-| --------------------  | --------------------  |
-| ```node -version```   | v14.19.3              |
-| ```ng version```      | Angular CLI: 14.0.2   |
-| ```npm -v```          | 8.13.2                |
-
-
-# Pre requisitos
- 
-*   Estar conectado a la red de ASE / Medife
-*   Angular CLI: 14.0.5
-*   Node: 14.19.3
-*   Package Manager: npm 8.13.2 
-*   Typescript :4.7.4
+| Herramienta       | Terminal/CMD  | Salida                |
+| ----------------- | ------------- | --------------------- |
+| Angular CLI       | `node -v`     | v14.19.3              |
+| Node              | `ng version`  | Angular CLI: 14.0.2   |
+| Package Manager   | `npm -v`      | 8.13.2                |
 
 # Arquitectura
 Este proyecto esta hecho bajo la linea de diseño **Clean Architecture** (*Arquitectura Limpia*)
